@@ -11,4 +11,6 @@ zmodload zsh/complist
 compinit
 _comp_options+=(globdots)
 
+alias code="code --ozone-platform=wayland --log debug --log debug"
+
 source /usr/share/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh 2>/dev/null
