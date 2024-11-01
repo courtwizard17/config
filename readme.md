@@ -1,1 +1,1 @@
-minimal config files for personal use
+configs
